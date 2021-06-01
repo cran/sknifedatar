@@ -1,7 +1,7 @@
-242623bfb67d0ea9e33a3d46fbaee53c *DESCRIPTION
+9dfa873f92bc1d4e4951916a8b23baf2 *DESCRIPTION
 26649bd14849fa2a6cb274851124f5a5 *LICENSE
 615e8134e6482eb9d41715ad4d17e9de *NAMESPACE
-99b6276528583b57d363514faaa08a98 *NEWS.md
+61a131c3930d824b17747d393ffb4721 *NEWS.md
 ae3d29960a3941776bf56f086d506a9d *R/automagic_tabs.R
 77992516208202f76b9ae5e8a1f7a694 *R/automagic_tabs2.R
 13d2806c4fca846467072a0d39a09a43 *R/crimes.R
@@ -13,7 +13,7 @@ e92be3794f97cd9127ced9b32524d37a *R/data_longer_crime.R
 c74ac39c8b915192ca68cfcab9500cac *R/insert_na.R
 037c234d22545ba625e65ce0d28db827 *R/intercepcion_calles.R
 b86dca9a36435cd788ff020a1ba10666 *R/modeltime_multibestmodel.R
-d07f99d633e56c6340d44ee901bd2546 *R/modeltime_multifit.R
+a6755aa8a90b6febafb601e1ed23d58e *R/modeltime_multifit.R
 63f72863b7d3b336fe56f9b8c1af90ff *R/modeltime_multiforecast.R
 5882305b26f330f07acfab799b034c3c *R/modeltime_multirefit.R
 b0fa2723684db2a9283018a1b4092cb2 *R/modeltime_wfs_bestmodel.R
@@ -31,7 +31,7 @@ e63a0c41b3f9b345187d1f586c1d77a0 *R/modeltime_wfs_rank.R
 396836f308402014d92bae31c20911c6 *R/table_time.R
 65cef5e0674056f6fc07dd2b3ca85c13 *R/utils-pipe.R
 2f27427dfda49b1375fecc79a76f2141 *README.md
-1de992dfe18511ca36bad1caeb093da7 *data/crimes.rda
+6e9c34274e3dfa0f49a7c0a65700c02d *data/crimes.rda
 80f97d814da8769c85b74d89bf9833c5 *data/data_avellaneda.rda
 d8d83020e81ea2339699841f47606288 *data/data_crime_clime.rda
 98a3c10f935cb536084cf2f5cd228ead *data/data_longer_crime.rda
@@ -62,7 +62,7 @@ d195eedba7c662dd699a3797298747d9 *man/figures/logo_twitter_sknidatar.png
 8efbef92ec94eb3cc4bf588d6043c8a7 *man/insert_na.Rd
 4f58390c4a2ddebf43133421d0b2d74c *man/intercepcion_calles.Rd
 d39e3bbe4f1bd81da1e248ba74c9df62 *man/modeltime_multibestmodel.Rd
-a8ca45f3f99c9472c3765c34d5aff870 *man/modeltime_multifit.Rd
+741dfa1d89d8b8548f1769660e0fb878 *man/modeltime_multifit.Rd
 bdb5dc8b5a6f47a75cae9921d41f8114 *man/modeltime_multiforecast.Rd
 5745b5e9fd522b98758328d9be4a8100 *man/modeltime_multirefit.Rd
 4b6f2c77c196af77158beb89668bb2d3 *man/modeltime_wfs_bestmodel.Rd
